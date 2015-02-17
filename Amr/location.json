@@ -1,0 +1,12 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [ -74.04450, 40.68925 ]
+    },
+    "properties": {
+        "user": "Amr",
+        "name": "Statue of Liberty",
+        "color": "#7a1b1b"
+    }
+}

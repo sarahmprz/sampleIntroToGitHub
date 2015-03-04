@@ -1,0 +1,12 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [59.95481, 10.76598 ]
+    },
+    "properties": {
+        "user": “sarahmprz”,
+        "name": “Oslo”,
+        "color": “#fb9800”
+    }
+}

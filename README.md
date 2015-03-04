@@ -14,6 +14,11 @@ Learn how to:
 The [published site](http://www.amreldib.com/sampleIntroToGitHub/) is a simple map that loads one Geojson file for each user/contributor that includes some points of interest.  
 Each user will fork the main repo, add a folder for themself, point to that folder in the main Index.html file and submit a pull request.  
 
+### Resources
+
+- [Get Lat Lon](http://dbsgeo.com/latlon/)  
+- [Color hex codes](http://www.color-hex.com/)
+
 ### Steps
 
 - Fork this repo.  

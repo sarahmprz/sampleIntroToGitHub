@@ -1,0 +1,12 @@
+{
+    "type": "Feature",
+    "geometry": {
+        "type": "Point",
+        "coordinates": [79.81447,11.91386]
+    },
+    "properties": {
+        "user": "Sarah",
+        "name": "Pondicherry",
+        "color": "#862b59"
+    }
+}
